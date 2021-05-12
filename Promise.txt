@@ -1,0 +1,5 @@
+CallBack function 단점극복 Promise!
+제일 중요!
+WHY? - 주로 비동기로 무거운 코딩을 많이 넣는 클래스! __new__
+
+https://youtu.be/JB_yU6Oe2eE 유튜브 다시 정독!
